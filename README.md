@@ -1,2 +1,3 @@
-# Mi-primer-repositorio
-Este va a ser mi primer repositorio en Github 
+# Bienvenidos a mi repositorio de Github
+
+En este repositorio voy a aprender los comandos basicos de Github 
